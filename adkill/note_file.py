@@ -13,7 +13,6 @@ updated_lines = []
 
 
 
-
 # 遍历原始文件的每一行
 for line in lines:
     # 如果行中包含 "Version" 字符串
